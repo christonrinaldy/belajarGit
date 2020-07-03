@@ -1,0 +1,36 @@
+html{
+    background-image: url(http://wallpapershdnow.com/images/movies/superhero/deadpool-2/deadpool-2-background-14.jpg);    
+
+}
+
+
+.judul{
+    background-color: tomato;
+    opacity: 60%;
+    width: fit-content;
+    position: fixed;
+    left: 40%;
+    top: 50%;
+    margin-bottom: 10px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(97, 78, 134);
+   
+    opacity: 100%;
+   
+    
+}
+
+
+
+
+.button{
+    
+    position: relative;
+    width: fit-content;
+    margin-top: 10px;
+    top: 70%;
+    left: 45%;
+    
+}
+

@@ -1,0 +1,54 @@
+html{
+    background-image: url(http://wallpapershdnow.com/images/movies/superhero/deadpool-2/deadpool-2-background-14.jpg);}
+    
+h1 {
+    color:white;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.keyboard{
+    top: 50%;
+    position: relative;
+}
+li{ background-color: aqua;
+    margin: 1px;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    opacity: 70%;
+    text-align: center;
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.box1:active{background-color: blueviolet;}
+
+.box2{
+    position: relative;
+    top: 50%;
+    align-content: center;
+    height:300px;
+    width: 300px;
+    border: turquoise;
+    border-radius: 5px;
+    border-style: solid;
+    display: inline-block;
+}
+#jawab{
+    height: 30px;
+    width: 60%;
+    background-color: white;
+
+}
+
+#gambar1{
+    image-resolution: 100px 100px;
+    background-image: url("https://cdns.klimg.com/dream.co.id/resized/750x500/news/2019/03/05/103476/kapal-raksasa-titanic-bangkit-lagi-190305d_3x2.jpg");
+    
+}
+
+
